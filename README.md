@@ -14,3 +14,4 @@ We build software for small businesses: websites, reservation systems for venues
 | Product | What it does |
 | --- | --- |
 | [Saker](https://saker.dwelltime-yayin.workers.dev/en/) | Every morning it finds online shops that sell from their own website, verifies each one, values them with your prices and drafts the first message. You press send. |
+| [Kestly](https://kestly-site.dwelltime-yayin.workers.dev/) | Managed Instagram and Facebook ads that start from a pre-ad report card; every recommendation points to its evidence. |
